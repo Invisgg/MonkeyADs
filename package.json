@@ -1,0 +1,20 @@
+{
+  "name": "monkeyads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "mineflayer": "^4.3.0",
+    "mineflayer-navigate": "^0.0.10",
+    "mineflayer-pathfinder": "^2.1.1",
+    "node-bash-title": "^0.0.2",
+    "pkg": "^5.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
